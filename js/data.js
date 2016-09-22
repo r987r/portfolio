@@ -1,5 +1,5 @@
 var simpleText = "Rahul Ramaswami";
 
 window.onload = function() {
-   document.getElementById("myname").innerHTML=splitText;
+   document.getElementById("myname").innerHTML=simpleText;
 } 
